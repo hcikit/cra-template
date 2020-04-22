@@ -1,0 +1,9 @@
+{
+  "name": "@hcikit/cra-template",
+  "version": "1.0.0-alpha.0",
+  "description": "A package containing files to bootstrap an HCI Kit project using Create React App.",
+  "repository": "github.com/hcikit/cra-template",
+  "author": "Blaine Lewis",
+  "license": "MIT",
+  "main": "template.json"
+}
